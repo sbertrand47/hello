@@ -13,7 +13,7 @@
 int main(int argc, char **argv) {
 
   printf("Bertrand Sibomana ! \n");
-  printf("Integrated Science \n");
+  printf("Integrated Science\n");
 
   return 0;
 }
